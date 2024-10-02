@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [https://my-cv-ten-pink.vercel.app/](https://my-cv-ten-pink.vercel.app/)
+- 👨‍💻 All of my projects are available at [click me](https://portfolio-pi-cyan-73.vercel.app/)
 
 - 💬 Ask me about **react gsap**
 
 - 📫 How to reach me **Himanshukumar935437@gmail.com**
 
-- 📄 Know about my experiences [https://beige-cherye-47.tiiny.site/](https://beige-cherye-47.tiiny.site/)
+- 📄 Know about my experiences [click me](https://pink-hannie-20.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
